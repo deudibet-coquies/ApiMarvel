@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|d:\\prueba tecnica\\apimarvel\\apimarvel\\apimarvel\\migrations\\20250214104637_agregarfavoritos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|solutionrelative:apimarvel\\migrations\\20250214104637_agregarfavoritos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|d:\\prueba tecnica\\apimarvel\\apimarvel\\apimarvel\\migrations\\20250214013339_tablafavorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|solutionrelative:apimarvel\\migrations\\20250214013339_tablafavorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|d:\\prueba tecnica\\apimarvel\\apimarvel\\apimarvel\\migrations\\20250213213504_campoidentificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|solutionrelative:apimarvel\\migrations\\20250213213504_campoidentificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|d:\\prueba tecnica\\apimarvel\\apimarvel\\apimarvel\\migrations\\20240305001853_agrgarnetidentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|solutionrelative:apimarvel\\migrations\\20240305001853_agrgarnetidentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|d:\\prueba tecnica\\apimarvel\\apimarvel\\apimarvel\\migrations\\20250213213504_campoidentificacion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|solutionrelative:apimarvel\\migrations\\20250213213504_campoidentificacion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|d:\\prueba tecnica\\apimarvel\\apimarvel\\apimarvel\\migrations\\20250214013339_tablafavorito.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|solutionrelative:apimarvel\\migrations\\20250214013339_tablafavorito.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|d:\\prueba tecnica\\apimarvel\\apimarvel\\apimarvel\\migrations\\20240301210620_creacion-usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|solutionrelative:apimarvel\\migrations\\20240301210620_creacion-usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|d:\\prueba tecnica\\apimarvel\\apimarvel\\apimarvel\\migrations\\20240305001853_agrgarnetidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|solutionrelative:apimarvel\\migrations\\20240305001853_agrgarnetidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|d:\\prueba tecnica\\apimarvel\\apimarvel\\apimarvel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|solutionrelative:apimarvel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|d:\\prueba tecnica\\apimarvel\\apimarvel\\apimarvel\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|solutionrelative:apimarvel\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|d:\\prueba tecnica\\apimarvel\\apimarvel\\apimarvel\\migrations\\20240301210620_creacion-usuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiMarvel\\ApiMarvel.csproj|solutionrelative:apimarvel\\migrations\\20240301210620_creacion-usuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250214104637_AgregarFavoritos.cs",
+              "DocumentMoniker": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20250214104637_AgregarFavoritos.cs",
+              "RelativeDocumentMoniker": "ApiMarvel\\Migrations\\20250214104637_AgregarFavoritos.cs",
+              "ToolTip": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20250214104637_AgregarFavoritos.cs",
+              "RelativeToolTip": "ApiMarvel\\Migrations\\20250214104637_AgregarFavoritos.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:26:45.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250213213504_campoIdentificacion.cs",
+              "DocumentMoniker": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20250213213504_campoIdentificacion.cs",
+              "RelativeDocumentMoniker": "ApiMarvel\\Migrations\\20250213213504_campoIdentificacion.cs",
+              "ToolTip": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20250213213504_campoIdentificacion.cs",
+              "RelativeToolTip": "ApiMarvel\\Migrations\\20250213213504_campoIdentificacion.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAEwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:17:24.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250213213504_campoIdentificacion.Designer.cs",
+              "DocumentMoniker": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20250213213504_campoIdentificacion.Designer.cs",
+              "RelativeDocumentMoniker": "ApiMarvel\\Migrations\\20250213213504_campoIdentificacion.Designer.cs",
+              "ToolTip": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20250213213504_campoIdentificacion.Designer.cs",
+              "RelativeToolTip": "ApiMarvel\\Migrations\\20250213213504_campoIdentificacion.Designer.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAASwHMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:17:27.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240305001853_agrgarNetIdentity.Designer.cs",
+              "DocumentMoniker": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20240305001853_agrgarNetIdentity.Designer.cs",
+              "RelativeDocumentMoniker": "ApiMarvel\\Migrations\\20240305001853_agrgarNetIdentity.Designer.cs",
+              "ToolTip": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20240305001853_agrgarNetIdentity.Designer.cs",
+              "RelativeToolTip": "ApiMarvel\\Migrations\\20240305001853_agrgarNetIdentity.Designer.cs",
+              "ViewState": "AQIAAC4BAAAAAAAAAAASwDkBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:17:06.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250214013339_tablaFavorito.cs",
+              "DocumentMoniker": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20250214013339_tablaFavorito.cs",
+              "RelativeDocumentMoniker": "ApiMarvel\\Migrations\\20250214013339_tablaFavorito.cs",
+              "ToolTip": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20250214013339_tablaFavorito.cs",
+              "RelativeToolTip": "ApiMarvel\\Migrations\\20250214013339_tablaFavorito.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:17:39.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250214013339_tablaFavorito.Designer.cs",
+              "DocumentMoniker": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20250214013339_tablaFavorito.Designer.cs",
+              "RelativeDocumentMoniker": "ApiMarvel\\Migrations\\20250214013339_tablaFavorito.Designer.cs",
+              "ToolTip": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20250214013339_tablaFavorito.Designer.cs",
+              "RelativeToolTip": "ApiMarvel\\Migrations\\20250214013339_tablaFavorito.Designer.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAASwHMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:17:41.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240301210620_creacion-usuarios.cs",
+              "DocumentMoniker": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20240301210620_creacion-usuarios.cs",
+              "RelativeDocumentMoniker": "ApiMarvel\\Migrations\\20240301210620_creacion-usuarios.cs",
+              "ToolTip": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20240301210620_creacion-usuarios.cs",
+              "RelativeToolTip": "ApiMarvel\\Migrations\\20240301210620_creacion-usuarios.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:16:47.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240305001853_agrgarNetIdentity.cs",
+              "DocumentMoniker": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20240305001853_agrgarNetIdentity.cs",
+              "RelativeDocumentMoniker": "ApiMarvel\\Migrations\\20240305001853_agrgarNetIdentity.cs",
+              "ToolTip": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20240305001853_agrgarNetIdentity.cs",
+              "RelativeToolTip": "ApiMarvel\\Migrations\\20240305001853_agrgarNetIdentity.cs",
+              "ViewState": "AQIAANMAAAAAAAAAAAASwNwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:17:05.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiMarvel\\appsettings.json",
+              "ToolTip": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\appsettings.json",
+              "RelativeToolTip": "ApiMarvel\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T16:18:57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Appsettings.cs",
+              "DocumentMoniker": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Appsettings.cs",
+              "RelativeDocumentMoniker": "ApiMarvel\\Appsettings.cs",
+              "ToolTip": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Appsettings.cs",
+              "RelativeToolTip": "ApiMarvel\\Appsettings.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:18:52.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240301210620_creacion-usuarios.Designer.cs",
+              "DocumentMoniker": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20240301210620_creacion-usuarios.Designer.cs",
+              "RelativeDocumentMoniker": "ApiMarvel\\Migrations\\20240301210620_creacion-usuarios.Designer.cs",
+              "ToolTip": "D:\\prueba tecnica\\ApiMarvel\\ApiMarvel\\ApiMarvel\\Migrations\\20240301210620_creacion-usuarios.Designer.cs",
+              "RelativeToolTip": "ApiMarvel\\Migrations\\20240301210620_creacion-usuarios.Designer.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAUwG4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:16:51.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

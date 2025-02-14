@@ -1,0 +1,442 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\controllers\\marvelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\controllers\\marvelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\servicios\\iservices\\imarvelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\servicios\\iservices\\imarvelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\repositorio\\irepositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\repositorio\\irepositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\modelos\\dto\\favoritosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\dto\\favoritosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\modelos\\appusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\appusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\servicios\\marvelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\servicios\\marvelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\repositorio\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\modelos\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\favorito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\modelos\\dto\\usuariodatosdto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\dto\\usuariodatosdto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\modelos\\dto\\usuarioregistrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\dto\\usuarioregistrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\modelos\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\modelos\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\modelos\\dto\\comicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\dto\\comicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\modelos\\dto\\marvelresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\dto\\marvelresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\migrations\\20250213213504_campoidentificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\migrations\\20250213213504_campoidentificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\modelos\\dto\\usuarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\dto\\usuarioupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\modelos\\dto\\usuariologinrespuestadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\dto\\usuariologinrespuestadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|c:\\users\\pc jeiner\\documents\\prueba tecnica\\apipeliculas\\apipeliculas\\apipeliculas\\modelos\\dto\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21341A02-E8B8-4B5A-81BB-A9BA54B70569}|ApiPeliculas\\ApiPeliculas.csproj|solutionrelative:apipeliculas\\modelos\\dto\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarvelController.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Controllers\\MarvelController.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Controllers\\MarvelController.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Controllers\\MarvelController.cs",
+              "RelativeToolTip": "ApiPeliculas\\Controllers\\MarvelController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAD4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:31:16.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMarvelService.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Servicios\\Iservices\\IMarvelService.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Servicios\\Iservices\\IMarvelService.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Servicios\\Iservices\\IMarvelService.cs",
+              "RelativeToolTip": "ApiPeliculas\\Servicios\\Iservices\\IMarvelService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvxMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:42:38.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Repositorio\\IRepositorio\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Repositorio\\IRepositorio\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Repositorio\\IRepositorio\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "ApiPeliculas\\Repositorio\\IRepositorio\\IUsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:37:43.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "ApiPeliculas\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAD4v34AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:24:06.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FavoritosDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\FavoritosDto.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Dto\\FavoritosDto.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\FavoritosDto.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Dto\\FavoritosDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T23:35:28.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "ApiPeliculas\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA3wBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:37:26.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Program.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Program.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Program.cs",
+              "RelativeToolTip": "ApiPeliculas\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwFkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:54:44.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\AppUsuario.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\AppUsuario.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\AppUsuario.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\AppUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:31:26.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "ApiPeliculas\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:35:37.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MarvelService.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Servicios\\MarvelService.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Servicios\\MarvelService.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Servicios\\MarvelService.cs",
+              "RelativeToolTip": "ApiPeliculas\\Servicios\\MarvelService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:51:32.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Repositorio\\CategoriaRepositorio.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Repositorio\\CategoriaRepositorio.cs",
+              "RelativeToolTip": "ApiPeliculas\\Repositorio\\CategoriaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:52:30.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApiPeliculas\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:31:23.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Favorito.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Favorito.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Favorito.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Favorito.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Favorito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T23:37:44.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioDatosDto .cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\UsuarioDatosDto .cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Dto\\UsuarioDatosDto .cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\UsuarioDatosDto .cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Dto\\UsuarioDatosDto .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:14:31.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioRegistroDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\UsuarioRegistroDto.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Dto\\UsuarioRegistroDto.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\UsuarioRegistroDto.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Dto\\UsuarioRegistroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:16:57.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Dto\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\UsuarioDto.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Dto\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:14:27.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ComicDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\ComicDto.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Dto\\ComicDto.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\ComicDto.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Dto\\ComicDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:16:50.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MarvelResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\MarvelResponseDto.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Dto\\MarvelResponseDto.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\MarvelResponseDto.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Dto\\MarvelResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:12:59.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Dto\\CategoriaDto.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\CategoriaDto.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Dto\\CategoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:17:54.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiPeliculas\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\appsettings.json",
+              "RelativeToolTip": "ApiPeliculas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T21:56:07.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250213213504_campoIdentificacion.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Migrations\\20250213213504_campoIdentificacion.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Migrations\\20250213213504_campoIdentificacion.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Migrations\\20250213213504_campoIdentificacion.cs",
+              "RelativeToolTip": "ApiPeliculas\\Migrations\\20250213213504_campoIdentificacion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:36:22.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:06:53.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsuarioLoginRespuestaDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\UsuarioLoginRespuestaDto.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Dto\\UsuarioLoginRespuestaDto.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\UsuarioLoginRespuestaDto.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Dto\\UsuarioLoginRespuestaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:14:20.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsuarioUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\UsuarioUpdateDto.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Dto\\UsuarioUpdateDto.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\UsuarioUpdateDto.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Dto\\UsuarioUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:05:59.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsuarioLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\UsuarioLoginDto.cs",
+              "RelativeDocumentMoniker": "ApiPeliculas\\Modelos\\Dto\\UsuarioLoginDto.cs",
+              "ToolTip": "C:\\Users\\PC Jeiner\\Documents\\prueba tecnica\\ApiPeliculas\\ApiPeliculas\\ApiPeliculas\\Modelos\\Dto\\UsuarioLoginDto.cs",
+              "RelativeToolTip": "ApiPeliculas\\Modelos\\Dto\\UsuarioLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:14:23.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
