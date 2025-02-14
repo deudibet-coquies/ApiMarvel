@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiMarvel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d68c7cb45ca79516a882d4743cd09bcbb5f8e49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+000c5d2ac7d62ba15da153a2a8708fec6cfee181")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiMarvel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiMarvel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
